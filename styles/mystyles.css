@@ -1,0 +1,16 @@
+.w {
+    float: left !important;
+    width: 33.33% !important;
+    padding: 5px !important;  
+}
+.w1::after {
+    content: "" !important;
+    clear: both !important;
+    display: table !important;
+}
+.color-of-text {
+    color:burlywood !important;
+}
+.font-priority {
+    font-family: sans-serif!important;
+}

@@ -1,0 +1,20 @@
+.navigation {
+    resize: horizontal;
+}
+
+.tableau {
+    resize: both;
+    background-color:azure;
+}
+
+.footer {
+    resize: horizontal;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.text-color {
+    color: black;
+}
